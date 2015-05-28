@@ -1,1 +1,44 @@
-/* Empty. Add your own CSS if you like */
+.HomescreenContent {
+    text-align:center;
+    padding-top:130px;
+    color:white;
+
+
+}
+body {
+    background-color:#03C9A9;
+    width:80%;
+    margin:auto;
+
+}
+#Cleveland {
+    width:100%;
+    font-size:200%;
+    color:#e4f1fe;
+}
+.AppInfo h1 {
+    color: #e4f1fe;
+    font-weight: 700;
+    padding-bottom:20px;
+    font-size:470%;
+}
+.AppInfo h3 {
+    padding-bottom:50px;
+    color:#4183d7;
+    text-align:left;
+}
+.AppTitle h1 {
+    line-height:25px;
+    text-align:left;
+    letter-spacing:-3px;
+}
+.WhatCity h3 {
+    color:#e4f1fe;
+    padding-top:80px;
+    padding-bottom:15px;
+    font-size:150%;
+    font-weight:600;
+}
+button {
+    font-weight: 700;
+}

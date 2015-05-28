@@ -1,0 +1,25 @@
+body {
+    background-color: #e4f1fe;
+}
+.AppHeader {
+    font-size:200%;
+
+    font-weight: 700;
+    color:#e4f1fe;
+}
+.AppHeader a {
+    margin-right:9px;
+}
+.bar.bar-header.bar-light {
+    background-color:#03C9A9;
+}
+.bar-subheader {
+    background-color: #e4f1fe;
+}
+.list {
+    margin-top:105px;
+    margin-bottom:0px;
+}
+.list h1 {
+    font-size:120%;
+}
